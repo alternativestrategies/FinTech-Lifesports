@@ -1,21 +1,39 @@
-# React App With Node Server
+# [Fintech Fix50 LifeSports](https://siliconvalley-lifesport.herokuapp.com/)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# [Demo Link](https://youtu.be/6a91ymVNykk)
 
-I have made so many React Apps with Node Servers at this point, I decided to make a reusable template.
+Fintech Fix50 task was to build a UI for LifeSports to showcase how our organization would help with upward mobility in Charlotte. This task was built and launched on Heroku by a team of 5 people.
 
-## Installation
-
-Install dependencies
-```sh
-npm install
+# Prerequisites & Installation!
 ```
+   1.   git clone the repository
+   2.   open in code editor
+   3.   open terminal
+   4.   npm install
+   5.   npm run start
+  ```
 
-## Usage
+##  Languages & Tools
+  - __React__ is used for the UI
+  - __MongoDB__ is used for our database to record exercises and personal user information
+  - __node.js__  evented I/O for the backend
+  - __Express__ using Express to connect endpoints from our database to our UI
+  - __Morgan__ to log when a client hits our endpoints
+  - __Sass__ to be able to style our UI
 
-Run development server
-```sh
-npm run start
-```
+## Authors
 
-## About
+Authors contributed to all back-end and front-end code to this project. All authors contributed to deploying
 
-This is a painfully simple app template. It only contains enough code to connect your app and server. The rest is up to your imagination.
+| Contributor |
+| ------ |
+| [Reginald Johnson](https://github.com/rtjohnson0)|
+| [Arely Guevara](https://github.com/alternativestrategies) |
+| [La'Daisha Pettus](https://github.com/LaDaishaPettus) |
+| [Thomas McKyer](https://github.com/Tivler)|
+| [Lovepreet Thind](https://github.com/Thind-Lovepreet14) |
+
+License
+----
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
