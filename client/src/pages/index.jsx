@@ -18,6 +18,8 @@ class Index extends React.Component {
                 <AppNav 
                     link_one="Home"
                     link_two="Our Sports"
+                    link_three="Profile"
+
                 />
                 <VidHero />
                 <Values />

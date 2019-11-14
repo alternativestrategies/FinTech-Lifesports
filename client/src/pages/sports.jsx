@@ -16,6 +16,7 @@ class Sports extends React.Component {
                 <AppNav 
                     link_one="Home"
                     link_two="Our Sports"
+                    link_three="Profile"
                 />
                 <OurSports />
                 <AppFooter />

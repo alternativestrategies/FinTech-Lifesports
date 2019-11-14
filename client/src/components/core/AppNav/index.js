@@ -40,7 +40,7 @@ class AppNav extends React.Component {
                 <ul className="nav__list">
                     <li className="nav__list--item"><NavLink onClick={() => window.scrollTo(0,0)} className="nav__list--link" exact to="/">{this.props.link_one}</NavLink></li>
                     <li className="nav__list--item"><NavLink onClick={() => window.scrollTo(0,0)} className="nav__list--link" to="/oursports">{this.props.link_two}</NavLink></li>
-                    <li className="nav__list--item"><NavLink onClick={() => window.scrollTo(0,0)} className="nav__list--link" to="/community">{this.props.link_three}</NavLink></li>
+                    <li className="nav__list--item"><NavLink onClick={() => window.scrollTo(0,0)} className="nav__list--link" to="/profile">{this.props.link_three}</NavLink></li>
                 </ul>
             </div>
 
